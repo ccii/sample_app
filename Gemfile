@@ -12,6 +12,8 @@ group :test do
   gem 'webrat', '0.7.1'
 end
 
+# Touched Gemfile
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
